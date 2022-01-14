@@ -9,3 +9,19 @@ html, body {
   align-items: center;
   justify-content: center;
 }
+
+#noplugin {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#noplugin-btn {
+  background: rgb(143, 227, 255);
+  color: black;
+  width: 200px;
+  height: 75px;
+}
